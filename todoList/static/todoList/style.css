@@ -1,0 +1,11 @@
+h1,.link{
+    text-align:center;
+}
+.maincontent{
+    width:400px;
+    height:100%;
+    background-color: #3f3f3f;
+    color:white;
+    margin: 30px 0 30px 35%;
+    padding: 30px 0 30px 0;
+}
